@@ -1,69 +1,28 @@
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
-	pageEncoding="ISO-8859-1"%>
+    pageEncoding="ISO-8859-1"%>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Home: Welcome to Vidstream</title>
+<title>Insert title here</title>
 <link rel="stylesheet" type="text/css" href="css/style_2.css" />
 <script type="text/javascript" src="js/jquery.min_2.js"></script>
 <script type="text/javascript" src="js/cufon-yui_2.js"></script>
 <script type="text/javascript" src="js/arial_2.js"></script>
 <script type="text/javascript" src="js/switch_2.js"></script>
+
+
 </head>
 <body>
-
-	<!--Header Section -->
+<!--Header Section -->
 	<%@include file="user-header.jsp" %>
 	<!--Header Section  End-->
-
-	<!--Content Section -->
-
 	<div id="content_sec">
 		<div id="left_content">
-			<div id="banner_slider">
-				<div id="nav-slider">
-					<ul>
-						<li class="active"><a href="index.jsp#">Latest Videos </a></li>
-						<li><a href="index.jsp#"> Most Papular </a></li>
-						<li><a href="index.jsp#">Explore</a></li>
-						<li><a href="index.jsp#"> Right now</a></li>
-						<li class="nobg"><a href="index.jsp#"> Recommended for
-								You</a></li>
-					</ul>
-				</div>
-				<div class="video-slider">
-					<object type="application/x-shockwave-flash"
-						style="width: 629px; height: 353px;"
-						data="http://www.youtube.com/v/NKu0t0mVtNk?fs=1&amp;hl=en_US&amp;rel=0">
-						<param name="movie"
-							value="http://www.youtube.com/v/NKu0t0mVtNk?fs=1&amp;hl=en_US&amp;rel=0" />
-						<param value="application/x-shockwave-flash" name="type" />
-						<param value="true" name="allowfullscreen" />
-						<param value="always" name="allowscriptaccess" />
-						<param value="opaque" name="wmode" />
-					</object>
-				</div>
-			</div>
+			
 			<div class="video-category" id="tab1">
-			
-			<div class="panel-video">
-				<div class="panel-left">
-					<ul>
-						<li><a href="videodetail.jsp#" class="panl-1">Like</a></li>
-						<li><a href="videodetail.jsp#" class="panl-3">Add to Playlist</a></li>
-						<li><a href="videodetail.jsp#" class="panl-4">comments</a></li>
-						
-					</ul>
-				</div>
-				<div class="panel-right">
-				<ul>
-					<strong><li><a href="videodetail.jsp#" class="panl-5">Report as abuse</a></li></strong>
-				</ul></div>
-			</div>
-			
 				<div class="heading-list">
-					<h1>Latest Videos</h1>
+					<h1>Uploaded Videos</h1>
 					<ul>
 						<li class="show-grid"><a href="index.jsp#" class="list-view">List
 								View</a><a href="index.jsp#" class="grid-view">Grid View</a></li>
@@ -97,12 +56,7 @@
 									<li class="nobg">by: <a href="index.jsp#">Alex
 											Anderson</a></li>
 									<li><strong>2,114,568</strong> Views</li>
-									<li><a href="index.jsp#">
-											Comments</a></li>
-									<li><a href="index.jsp#">
-											Likes</a></li>
-									<li><a href="index.jsp#">
-											Report as abuse</a></li>
+									<li>96 Comments</li>
 								</ul>
 								<div class="rating-stars">
 									<em>&nbsp;</em><em>&nbsp;</em><em>&nbsp;</em><em>&nbsp;</em><em
@@ -139,12 +93,7 @@
 									<li class="nobg">by: <a href="index.jsp#">Alex
 											Anderson</a></li>
 									<li><strong>2,114,568</strong> Views</li>
-									<li><a href="index.jsp#">
-											Comments</a></li>
-									<li><a href="index.jsp#">
-											Likes</a></li>
-									<li><a href="index.jsp#">
-											Report as abuse</a></li>
+									<li>96 Comments</li>
 								</ul>
 								<div class="rating-stars">
 									<em>&nbsp;</em><em>&nbsp;</em><em>&nbsp;</em><em>&nbsp;</em><em
@@ -181,12 +130,7 @@
 									<li class="nobg">by: <a href="index.jsp#">Alex
 											Anderson</a></li>
 									<li><strong>2,114,568</strong> Views</li>
-									<li><a href="index.jsp#">
-											Comments</a></li>
-									<li><a href="index.jsp#">
-											Likes</a></li>
-									<li><a href="index.jsp#">
-											Report as abuse</a></li>
+									<li>96 Comments</li>
 								</ul>
 								<div class="rating-stars">
 									<em>&nbsp;</em><em>&nbsp;</em><em>&nbsp;</em><em>&nbsp;</em><em
@@ -223,12 +167,7 @@
 									<li class="nobg">by: <a href="index.jsp#">Alex
 											Anderson</a></li>
 									<li><strong>2,114,568</strong> Views</li>
-									<li><a href="index.jsp#">
-											Comments</a></li>
-									<li><a href="index.jsp#">
-											Likes</a></li>
-									<li><a href="index.jsp#">
-											Report as abuse</a></li>
+									<li>96 Comments</li>
 								</ul>
 								<div class="rating-stars">
 									<em>&nbsp;</em><em>&nbsp;</em><em>&nbsp;</em><em>&nbsp;</em><em
@@ -265,53 +204,7 @@
 									<li class="nobg">by: <a href="index.jsp#">Alex
 											Anderson</a></li>
 									<li><strong>2,114,568</strong> Views</li>
-									<li><a href="index.jsp#">
-											Comments</a></li>
-									<li><a href="index.jsp#">
-											Likes</a></li>
-									<li><a href="index.jsp#">
-											Report as abuse</a></li>
-								</ul><div class="rating-stars">
-									<em>&nbsp;</em><em>&nbsp;</em><em>&nbsp;</em><em>&nbsp;</em><em
-										class="low-rate">&nbsp;</em>
-								</div>
-								<a href="index.jsp#" class="share-btn">Share This</a>
-							</div>
-						</div>
-					</div>
-					<div class="description-box">
-						<div class="video-box">
-							<a href="index.jsp#"> <img src="images/img-v1_2.jpg" alt="" />
-								<span class="time-video">01:25</span> <span class="add-playlist">Add</span></a>
-						</div>
-						<div class="description-video">
-							<div class="heading-date">
-								<h5>
-									<a href="videodetail.jsp">Duis molestie nunc nec felis
-										sollicitudin</a>
-								</h5>
-								<span>8 months ago</span>
-							</div>
-							<div class="text-desc">
-								<p>Duis molestie nunc nec felis sollicitudin sed ornare
-									lorem varkius. Quisque eleifend lacus eget lectus elementum vel
-									ultrices justo porta. Etiam bibendum. Quisque eleifend lacus
-									eget lectus elementum vel ultrices justo porta. Etiam bibendum.</p>
-							</div>
-							<div class="total-views">
-								<strong>12,194,298 </strong> views
-							</div>
-							<div class="bottom-panel">
-								<ul>
-									<li class="nobg">by: <a href="index.jsp#">Alex
-											Anderson</a></li>
-									<li><strong>2,114,568</strong> Views</li>
-									<li><a href="index.jsp#">
-											Comments</a></li>
-									<li><a href="index.jsp#">
-											Likes</a></li>
-									<li><a href="index.jsp#">
-											Report as abuse</a></li>
+									<li>96 Comments</li>
 								</ul>
 								<div class="rating-stars">
 									<em>&nbsp;</em><em>&nbsp;</em><em>&nbsp;</em><em>&nbsp;</em><em
@@ -348,12 +241,7 @@
 									<li class="nobg">by: <a href="index.jsp#">Alex
 											Anderson</a></li>
 									<li><strong>2,114,568</strong> Views</li>
-									<li><a href="index.jsp#">
-											Comments</a></li>
-									<li><a href="index.jsp#">
-											Likes</a></li>
-									<li><a href="index.jsp#">
-											Report as abuse</a></li>
+									<li>96 Comments</li>
 								</ul>
 								<div class="rating-stars">
 									<em>&nbsp;</em><em>&nbsp;</em><em>&nbsp;</em><em>&nbsp;</em><em
@@ -390,12 +278,44 @@
 									<li class="nobg">by: <a href="index.jsp#">Alex
 											Anderson</a></li>
 									<li><strong>2,114,568</strong> Views</li>
-									<li><a href="index.jsp#">
-											Comments</a></li>
-									<li><a href="index.jsp#">
-											Likes</a></li>
-									<li><a href="index.jsp#">
-											Report as abuse</a></li>
+									<li>96 Comments</li>
+								</ul>
+								<div class="rating-stars">
+									<em>&nbsp;</em><em>&nbsp;</em><em>&nbsp;</em><em>&nbsp;</em><em
+										class="low-rate">&nbsp;</em>
+								</div>
+								<a href="index.jsp#" class="share-btn">Share This</a>
+							</div>
+						</div>
+					</div>
+					<div class="description-box">
+						<div class="video-box">
+							<a href="index.jsp#"> <img src="images/img-v1_2.jpg" alt="" />
+								<span class="time-video">01:25</span> <span class="add-playlist">Add</span></a>
+						</div>
+						<div class="description-video">
+							<div class="heading-date">
+								<h5>
+									<a href="videodetail.jsp">Duis molestie nunc nec felis
+										sollicitudin</a>
+								</h5>
+								<span>8 months ago</span>
+							</div>
+							<div class="text-desc">
+								<p>Duis molestie nunc nec felis sollicitudin sed ornare
+									lorem varius. Quisque eleifend lacus eget lectus elementum vel
+									ultrices justo porta. Etiam bibendum. Quisque eleifend lacus
+									eget lectus elementum vel ultrices justo porta. Etiam bibendum.</p>
+							</div>
+							<div class="total-views">
+								<strong>12,194,298 </strong> views
+							</div>
+							<div class="bottom-panel">
+								<ul>
+									<li class="nobg">by: <a href="index.jsp#">Alex
+											Anderson</a></li>
+									<li><strong>2,114,568</strong> Views</li>
+									<li>96 Comments</li>
 								</ul>
 								<div class="rating-stars">
 									<em>&nbsp;</em><em>&nbsp;</em><em>&nbsp;</em><em>&nbsp;</em><em
@@ -432,14 +352,13 @@
 					name="s" /> <a href="index.jsp#">Search Button</a>
 			</div>
 			<div class="banner-right">
-				<a href="index.jsp#"><img src="images/banner-right_2.jpg"
-					alt="" /></a>
-				<h5>Join the most famous video-sharing community!</h5>
-				<a href="index.jsp#"><img src="images/btn-join_2.gif" alt="" /></a>
+				
+				<h1>Create channel</h1>
+				<a href="index.jsp#"><img src="images/zzzzz.jpg" alt="" /></a>
 			</div>
 			<div class="classic-channel">
 				<div class="heading-top">
-					<h2>Classic Channels</h2>
+					<h2>Channels</h2>
 				</div>
 				<ul>
 					<li><a href="index.jsp#" class="red"> <img
@@ -455,120 +374,29 @@
 				</ul>
 			</div>
 			<br class="clear" />
-			<div class="trending-box">
+			<div class="classic-channel">
 				<div class="heading-top">
-					<h2>Trending Now</h2>
-					<a href="index.jsp#">View More</a>
+					<h2>Following Channels</h2>
 				</div>
 				<ul>
-					<li>
-						<div class="video-box-trending">
-							<img src="images/img-tr-1_2.jpg" alt="" /> <span
-								class="time-video">08:53</span> <span class="add-playlist"></span>
-						</div>
-						<div class="text-desc-tre">
-							<h5>
-								<a href="videodetail.jsp">Duis molestie nunc nec</a>
-							</h5>
-							<p>
-								<strong>1,197,002</strong> views
-							</p>
-							<span>By <a href="index.jsp#">Simon Cole</a></span>
-						</div>
-					</li>
-					<li>
-						<div class="video-box-trending">
-							<img src="images/img-tr-2_2.jpg" alt="" /> <span
-								class="time-video">08:53</span> <span class="add-playlist"></span>
-						</div>
-						<div class="text-desc-tre">
-							<h5>
-								<a href="videodetail.jsp">Duis molestie nunc nec</a>
-							</h5>
-							<p>
-								<strong>1,197,002</strong> views
-							</p>
-							<span>By <a href="index.jsp#">Simon Cole</a></span>
-						</div>
-					</li>
-					<li>
-						<div class="video-box-trending">
-							<img src="images/img-tr-3_2.jpg" alt="" /> <span
-								class="time-video">08:53</span> <span class="add-playlist"></span>
-						</div>
-						<div class="text-desc-tre">
-							<h5>
-								<a href="videodetail.jsp">Duis molestie nunc nec</a>
-							</h5>
-							<p>
-								<strong>1,197,002</strong> views
-							</p>
-							<span>By <a href="index.jsp#">Simon Cole</a></span>
-						</div>
-					</li>
-					<li>
-						<div class="video-box-trending">
-							<img src="images/img-tr-4_2.jpg" alt="" /> <span
-								class="time-video">08:53</span> <span class="add-playlist"></span>
-						</div>
-						<div class="text-desc-tre">
-							<h5>
-								<a href="videodetail.jsp">Duis molestie nunc nec</a>
-							</h5>
-							<p>
-								<strong>1,197,002</strong> views
-							</p>
-							<span>By <a href="index.jsp#">Simon Cole</a></span>
-						</div>
-					</li>
+					<li><a href="index.jsp#" class="red"> <img
+							src="images/img-c1_2.jpg" alt="" /> <span>The woman in
+								black</span> <em><strong>1,197,002</strong> Members</em></a></li>
+					<li><a href="index.jsp#" class="green"> <img
+							src="images/img-c2_2.jpg" alt="" /> <span>The Intention</span> <em><strong>1,197,002</strong>
+								Members</em>
+					</a></li>
+					<li><a href="index.jsp#" class="silver"> <img
+							src="images/img-c3_2.jpg" alt="" /> <span>Lenny</span> <em><strong>1,197,002</strong>
+								Members</em></a></li>
 				</ul>
 			</div>
-			<div class="event-box">
-				<div class="heading-top">
-					<h2>Events</h2>
-					<a href="index.jsp#">View More</a>
-				</div>
-				<ul>
-					<li>
-						<div class="img-frame-event">
-							<img src="images/img-c1_2.jpg" alt="" />
-						</div>
-						<div class="text-desc-event">
-							<h5>Duis molestie nunc les.</h5>
-							<p>Duis molestie nunc nec felis sollicit udin sed ornare
-								lorem varius.</p>
-						</div>
-					</li>
-					<li>
-						<div class="img-frame-event">
-							<img src="images/img-c2_2.jpg" alt="" />
-						</div>
-						<div class="text-desc-event">
-							<h5>Duis molestie nunc les.</h5>
-							<p>Duis molestie nunc nec felis sollicit udin sed ornare
-								lorem varius.</p>
-						</div>
-					</li>
-					<li>
-						<div class="img-frame-event">
-							<img src="images/img-c3_2.jpg" alt="" />
-						</div>
-						<div class="text-desc-event">
-							<h5>Duis molestie nunc les.</h5>
-							<p>Duis molestie nunc nec felis sollicit udin sed ornare
-								lorem varius.</p>
-						</div>
-					</li>
-				</ul>
-			</div>
+			
 		</div>
 		<br class="clear" />
 	</div>
-	<!--Content Section End -->
-
-	<!--Footer -->
+<!--Footer -->
 	<%@include file="footer.jsp" %>
 	<!--Bottom Footer Ends -->
-
 </body>
 </html>

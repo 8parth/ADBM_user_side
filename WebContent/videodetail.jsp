@@ -47,75 +47,17 @@
 				<div class="panel-left">
 					<ul>
 						<li><a href="videodetail.jsp#" class="panl-1">Like</a></li>
-						<li><a href="videodetail.jsp#" class="panl-2">comment</a></li>
-						<li><a href="videodetail.jsp#" class="panl-3">Add to
-								Playlist</a></li>
-						<li><a href="videodetail.jsp#" class="panl-4">Share</a></li>
-						<li><a href="videodetail.jsp#" class="panl-5">Flag</a></li>
+						<li><a href="videodetail.jsp#" class="panl-3">Add to Playlist</a></li>
+						<li><a href="videodetail.jsp#" class="panl-4">comments</a></li>
+						
 					</ul>
 				</div>
 				<div class="panel-right">
-					<h3>
-						<strong>81,387,378</strong> views
-					</h3>
-				</div>
+				<ul>
+					<strong><li><a href="videodetail.jsp#" class="panl-5">Report as abuse</a></li></strong>
+				</ul></div>
 			</div>
-			<div class="share-panel">
-				<em class="shout-out">&nbsp;</em>
-				<div class="embed-code">
-					<textarea rows="" cols="">http://www.youtube.com/watch?v=kffacxfA7G4</textarea>
-					<label> <input type="checkbox" /> Short URL
-					</label>
-				</div>
-				<div class="social-connect">
-					<div class="twitter">
-						<a href="videodetail.jsp#"><img src="images/bg-tweet_2.gif"
-							alt="" /></a>
-					</div>
-					<div class="facebook">
-						<a href="videodetail.jsp#"><img
-							src="images/bg-facebook_2.gif" alt="" /></a>
-					</div>
-				</div>
-				<div class="social-network-group">
-					<ul>
-						<li><a href="videodetail.jsp#"><img
-								src="images/icon-social-1_2.png" alt="" /></a></li>
-						<li><a href="videodetail.jsp#"><img
-								src="images/icon-social-2_2.png" alt="" /></a></li>
-						<li><a href="videodetail.jsp#"><img
-								src="images/icon-social-3_2.png" alt="" /></a></li>
-						<li><a href="videodetail.jsp#"><img
-								src="images/icon-social-4_2.png" alt="" /></a></li>
-						<li><a href="videodetail.jsp#"><img
-								src="images/icon-social-5_2.png" alt="" /></a></li>
-						<li><a href="videodetail.jsp#"><img
-								src="images/icon-social-6_2.png" alt="" /></a></li>
-						<li><a href="videodetail.jsp#"><img
-								src="images/icon-social-7_2.png" alt="" /></a></li>
-						<li><a href="videodetail.jsp#"><img
-								src="images/icon-social-8_2.png" alt="" /></a></li>
-						<li><a href="videodetail.jsp#"><img
-								src="images/icon-social-9_2.png" alt="" /></a></li>
-						<li><a href="videodetail.jsp#"><img
-								src="images/icon-social-10_2.png" alt="" /></a></li>
-						<li><a href="videodetail.jsp#"><img
-								src="images/icon-social-11_2.png" alt="" /></a></li>
-						<li><a href="videodetail.jsp#"><img
-								src="images/icon-social-12_2.png" alt="" /></a></li>
-						<li><a href="videodetail.jsp#"><img
-								src="images/icon-social-1_2.png" alt="" /></a></li>
-						<li><a href="videodetail.jsp#"><img
-								src="images/icon-social-2_2.png" alt="" /></a></li>
-						<li><a href="videodetail.jsp#"><img
-								src="images/icon-social-3_2.png" alt="" /></a></li>
-						<li><a href="videodetail.jsp#"><img
-								src="images/icon-social-4_2.png" alt="" /></a></li>
-						<li><a href="videodetail.jsp#"><img
-								src="images/icon-social-5_2.png" alt="" /></a></li>
-					</ul>
-				</div>
-			</div>
+			
 			<div class="video-info">
 				<div class="left-info-box">
 					<ul>
@@ -132,11 +74,7 @@
 					<p>
 						<strong>294,752</strong> likes, <strong>15,084</strong> dislikes
 					</p>
-					<p>
-						Please <a href="videodetail.jsp#">Join</a> or <a
-							href="videodetail.jsp#">log in</a> to <a
-							href="videodetail.jsp#" class="download-btn">Download</a>
-					</p>
+					
 				</div>
 			</div>
 			<div id="comment-area">

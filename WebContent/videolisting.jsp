@@ -68,11 +68,16 @@
 						</div>
 						<div class="bottom-panel">
 							<ul>
-								<li class="nobg">by: <a href="videolisting.jsp#">Alex
-										Anderson</a></li>
-								<li><strong>2,114,568</strong> Views</li>
-								<li>96 Comments</li>
-							</ul>
+									<li class="nobg">by: <a href="index.jsp#">Alex
+											Anderson</a></li>
+									<li><strong>2,114,568</strong> Views</li>
+									<li><a href="index.jsp#">
+											Comments</a></li>
+									<li><a href="index.jsp#">
+											Likes</a></li>
+									<li><a href="index.jsp#">
+											Report as abuse</a></li>
+								</ul>
 							<div class="rating-stars">
 								<em>&nbsp;</em><em>&nbsp;</em><em>&nbsp;</em><em>&nbsp;</em><em
 									class="low-rate">&nbsp;</em>
@@ -106,12 +111,17 @@
 						</div>
 						<div class="bottom-panel">
 							<ul>
-								<li class="nobg">by: <a href="videolisting.jsp#">Alex
-										Anderson</a></li>
-								<li><strong>2,114,568</strong> Views</li>
-								<li>96 Comments</li>
-							</ul>
-							<div class="rating-stars">
+									<li class="nobg">by: <a href="index.jsp#">Alex
+											Anderson</a></li>
+									<li><strong>2,114,568</strong> Views</li>
+									<li><a href="index.jsp#">
+											Comments</a></li>
+									<li><a href="index.jsp#">
+											Likes</a></li>
+									<li><a href="index.jsp#">
+											Report as abuse</a></li>
+								</ul>
+								<div class="rating-stars">
 								<em>&nbsp;</em><em>&nbsp;</em><em>&nbsp;</em><em>&nbsp;</em><em
 									class="low-rate">&nbsp;</em>
 							</div>
@@ -143,13 +153,17 @@
 							<strong>12,194,298 </strong> views
 						</div>
 						<div class="bottom-panel">
-							<ul>
-								<li class="nobg">by: <a href="videolisting.jsp#">Alex
-										Anderson</a></li>
-								<li><strong>2,114,568</strong> Views</li>
-								<li>96 Comments</li>
-							</ul>
-							<div class="rating-stars">
+						<ul>
+									<li class="nobg">by: <a href="index.jsp#">Alex
+											Anderson</a></li>
+									<li><strong>2,114,568</strong> Views</li>
+									<li><a href="index.jsp#">
+											Comments</a></li>
+									<li><a href="index.jsp#">
+											Likes</a></li>
+									<li><a href="index.jsp#">
+											Report as abuse</a></li>
+								</ul>							<div class="rating-stars">
 								<em>&nbsp;</em><em>&nbsp;</em><em>&nbsp;</em><em>&nbsp;</em><em
 									class="low-rate">&nbsp;</em>
 							</div>
@@ -182,11 +196,16 @@
 						</div>
 						<div class="bottom-panel">
 							<ul>
-								<li class="nobg">by: <a href="videolisting.jsp#">Alex
-										Anderson</a></li>
-								<li><strong>2,114,568</strong> Views</li>
-								<li>96 Comments</li>
-							</ul>
+									<li class="nobg">by: <a href="index.jsp#">Alex
+											Anderson</a></li>
+									<li><strong>2,114,568</strong> Views</li>
+									<li><a href="index.jsp#">
+											Comments</a></li>
+									<li><a href="index.jsp#">
+											Likes</a></li>
+									<li><a href="index.jsp#">
+											Report as abuse</a></li>
+								</ul>
 							<div class="rating-stars">
 								<em>&nbsp;</em><em>&nbsp;</em><em>&nbsp;</em><em>&nbsp;</em><em
 									class="low-rate">&nbsp;</em>
@@ -224,11 +243,16 @@
 						</div>
 						<div class="bottom-panel">
 							<ul>
-								<li class="nobg">by: <a href="videolisting.jsp#">Alex
-										Anderson</a></li>
-								<li><strong>2,114,568</strong> Views</li>
-								<li>96 Comments</li>
-							</ul>
+									<li class="nobg">by: <a href="index.jsp#">Alex
+											Anderson</a></li>
+									<li><strong>2,114,568</strong> Views</li>
+									<li><a href="index.jsp#">
+											Comments</a></li>
+									<li><a href="index.jsp#">
+											Likes</a></li>
+									<li><a href="index.jsp#">
+											Report as abuse</a></li>
+								</ul>
 							<div class="rating-stars">
 								<em>&nbsp;</em><em>&nbsp;</em><em>&nbsp;</em><em>&nbsp;</em><em
 									class="low-rate">&nbsp;</em>
@@ -262,11 +286,16 @@
 						</div>
 						<div class="bottom-panel">
 							<ul>
-								<li class="nobg">by: <a href="videolisting.jsp#">Alex
-										Anderson</a></li>
-								<li><strong>2,114,568</strong> Views</li>
-								<li>96 Comments</li>
-							</ul>
+									<li class="nobg">by: <a href="index.jsp#">Alex
+											Anderson</a></li>
+									<li><strong>2,114,568</strong> Views</li>
+									<li><a href="index.jsp#">
+											Comments</a></li>
+									<li><a href="index.jsp#">
+											Likes</a></li>
+									<li><a href="index.jsp#">
+											Report as abuse</a></li>
+								</ul>
 							<div class="rating-stars">
 								<em>&nbsp;</em><em>&nbsp;</em><em>&nbsp;</em><em>&nbsp;</em><em
 									class="low-rate">&nbsp;</em>
@@ -300,11 +329,16 @@
 						</div>
 						<div class="bottom-panel">
 							<ul>
-								<li class="nobg">by: <a href="videolisting.jsp#">Alex
-										Anderson</a></li>
-								<li><strong>2,114,568</strong> Views</li>
-								<li>96 Comments</li>
-							</ul>
+									<li class="nobg">by: <a href="index.jsp#">Alex
+											Anderson</a></li>
+									<li><strong>2,114,568</strong> Views</li>
+									<li><a href="index.jsp#">
+											Comments</a></li>
+									<li><a href="index.jsp#">
+											Likes</a></li>
+									<li><a href="index.jsp#">
+											Report as abuse</a></li>
+								</ul>
 							<div class="rating-stars">
 								<em>&nbsp;</em><em>&nbsp;</em><em>&nbsp;</em><em>&nbsp;</em><em
 									class="low-rate">&nbsp;</em>
@@ -338,11 +372,16 @@
 						</div>
 						<div class="bottom-panel">
 							<ul>
-								<li class="nobg">by: <a href="videolisting.jsp#">Alex
-										Anderson</a></li>
-								<li><strong>2,114,568</strong> Views</li>
-								<li>96 Comments</li>
-							</ul>
+									<li class="nobg">by: <a href="index.jsp#">Alex
+											Anderson</a></li>
+									<li><strong>2,114,568</strong> Views</li>
+									<li><a href="index.jsp#">
+											Comments</a></li>
+									<li><a href="index.jsp#">
+											Likes</a></li>
+									<li><a href="index.jsp#">
+											Report as abuse</a></li>
+								</ul>
 							<div class="rating-stars">
 								<em>&nbsp;</em><em>&nbsp;</em><em>&nbsp;</em><em>&nbsp;</em><em
 									class="low-rate">&nbsp;</em>

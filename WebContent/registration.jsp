@@ -14,77 +14,65 @@
 </head>
 <body>
 	<!--Header Section -->
-	<%@include file="user-header.jsp" %>
+	<%@include file="user-header.jsp"%>
 	<!--Header Section  End-->
 
 	<!--Content Section -->
 
-	<div id="signin_content_wrapper" >
-		<div id="signin_content" >
-			<div id="left_col"> <!-- id="left_col" -->
+	<div id="signin_content_wrapper">
+		<div id="signin_content">
+			<div id="left_col">
+				<!-- id="left_col" -->
 				<div class="bg-shadow">
 					&nbsp;
 					<!--this is for side shadow -->
 				</div>
-				<div class="signin_form_heading">
-					<h1>Register to Vid Stream</h1>
-					<p>Lorem Ipsum is simply dummy text of the printing and
-						typesetting industry.</p> 
-				</div>
+
 				<form action="signin.jsp">
 					<div class="signin-form">
 						<ul>
-							
-							<li>
-							<label>First Name:</label>
-							<span> <input type="text"
-									value="First Name" class="txt-field"
-									onfocus="if(this.value == 'User Name') { this.value = ''; }"<%-- 6elle badlisu --%>
-									onblur="if(this.value == '') { this.value = 'User Name'; }"<%-- aa b --%> />
-							</span>
-							</li>
-							
-							<li>
-							<label>Last Name:</label>
-							<span> <input type="text"
-									value="Last Name" class="txt-field"
-									onfocus="if(this.value == 'User Name') { this.value = ''; }"<%-- 6elle badlisu --%>
-									onblur="if(this.value == '') { this.value = 'User Name'; }"<%-- aa b --%> />
-							</span>
-							</li>
-							
-							<li>
-							<label>Email:</label>
-							<span> <input type="text"
+
+							<li><label>First Name:</label> <span> <input
+									type="text" value="First Name" class="txt-field"
+									onfocus="if(this.value == 'User Name') { this.value = ''; }"
+									<%-- 6elle badlisu --%>
+									onblur="if(this.value == '') { this.value = 'User Name'; }" <%-- aa b --%> />
+							</span></li>
+
+							<li><label>Last Name:</label> <span> <input
+									type="text" value="Last Name" class="txt-field"
+									onfocus="if(this.value == 'User Name') { this.value = ''; }"
+									<%-- 6elle badlisu --%>
+									onblur="if(this.value == '') { this.value = 'User Name'; }" <%-- aa b --%> />
+							</span></li>
+
+							<li><label>Email:</label> <span> <input type="text"
 									value="User Name" class="txt-field"
 									onfocus="if(this.value == 'User Name') { this.value = ''; }"
 									onblur="if(this.value == '') { this.value = 'User Name'; }" />
-							</span>
-							</li>
+							</span></li>
 							<li><label>Password:</label> <span> <input
 									type="password" value="password" class="password"
 									onfocus="if(this.value == 'password') { this.value = ''; }"
 									onblur="if(this.value == '') { this.value = 'password'; }" />
 							</span></li>
-							
+
 							<li><label>Confirm Password:</label> <span> <input
 									type="password" value="password" class="password"
 									onfocus="if(this.value == 'password') { this.value = ''; }"
 									onblur="if(this.value == '') { this.value = 'password'; }" />
 							</span></li>
-							
-							<li>
+
+
+							<li><!-- <input type="submit" value="submit" id="1" /> -->
+
 								<div>
-									<a href="signin.jsp#" class="fb-connect">Connect With Fb</a>
+								<input type="submit" class="login-btn" value="register" name="register" title="register">
+									<!-- <input type="submit" value="Login" class="login-btn" /> -->
 								</div>
 							</li>
-							<li>
-								<div>
-									<input type="submit" value="Login" class="login-btn" />
-								</div>
-							</li>
-							
-							
+
+
 						</ul>
 					</div>
 				</form>
@@ -100,7 +88,7 @@
 	<!--Content Section End -->
 
 	<!--Footer -->
-	<%@include file="footer.jsp" %>
+	<%@include file="footer.jsp"%>
 	<!--Bottom Footer Ends -->
 
 </body>

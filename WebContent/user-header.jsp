@@ -44,10 +44,9 @@
 			</div>
 			<div class="signin">
 				<ul>
-					<li class="create_account"><a href="index.jsp#">Creat
-							Account</a></li>
+					<li class="create_account"><a href="registration.jsp">Create Account</a></li>
 					<li class="sign_in"><a href="signin.jsp">Sign In</a></li>
-					<li class="upload_btn"><a href="index.jsp#">Upload New
+					<li class="upload_btn"><a href="upload.jsp">Upload New
 							Video</a></li>
 				</ul>
 			</div>
