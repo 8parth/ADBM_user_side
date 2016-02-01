@@ -13,8 +13,9 @@
 
 </head>
 <body>
+
 	<!--Header Section -->
-	<%@include file="user-header.jsp"%>
+	<%@include file="user-header-logged-in.jsp"%>
 	<!--Header Section  End-->
 
 	<!--Content Section -->
